@@ -7,7 +7,6 @@ Full-Stack Web Developer
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [3D Portfolio](http://darisknc.netlify.app/)
 * ✉️  You can contact me at [daris.knc@gmail.com](mailto:daris.knc@gmail.com)
-* 🚀  I'm currently working on [Better CS2 Inventory | Tracker](https://github.com/D4dis/cs2-inventory)
 * 🤝  I'm open to collaborating on any project
 
 ### Skills 
